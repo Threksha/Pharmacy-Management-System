@@ -1,0 +1,1 @@
+Developed a Pharmacy Management System to automate inventory, sales, purchases, and medicine expiry tracking, improving inventory accuracy and preventing the sale of expired medicines through an object-oriented design.
